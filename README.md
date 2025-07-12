@@ -1,3 +1,8 @@
+Power BI Dashboard(https://drive.google.com/file/d/1XTmJA6PF2hkjaL4gAj8pMwvSFypETV9j/view?usp=sharing)  
+Tableau Dashboard(https://drive.google.com/file/d/1bJqEWUIGRkslhcjYuA2UTGQV6E4KrPcD/view?usp=sharing)  
+Excel Dashboard(https://docs.google.com/spreadsheets/d/122P_D7K0FHnkavjkuLgy3SRulomGWjqM/edit?usp=sharing&ouid=106812861818705537254&rtpof=true&sd=true)
+SQL File(https://drive.google.com/file/d/18J1FtyoYI_K1I9HcY76Mskr3GWHddB3i/view?usp=sharing)
+
 📦 Supply Chain Analytics Project
 This project aims to analyze supply chain performance using sales, inventory, and regional data to drive operational insights. It involves end-to-end data analysis including data cleaning, modeling, and visualization using industry-standard tools.
 
